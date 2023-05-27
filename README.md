@@ -1,2 +1,2 @@
 # Statistics
-Solutions to basic and advanced questions on statistics
+Basic and Advanced statistics
